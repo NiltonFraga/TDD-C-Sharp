@@ -6,6 +6,7 @@ C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\
 C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\CursoOnline.DominioTest.runtimeconfig.dev.json
 C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\CursoOnline.DominioTest.dll
 C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\CursoOnline.DominioTest.pdb
+C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\ExpectedObjects.dll
 C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -92,4 +93,6 @@ C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\
 C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp3.0\CursoOnline.DominioTest.csproj.CopyComplete
 C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp3.0\CursoOnline.DominioTest.dll
 C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp3.0\CursoOnline.DominioTest.pdb
-C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\ExpectedObjects.dll
+C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\Bogus.dll
+C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\CursoOnline.Dominio.dll
+C:\Users\NiltonSA\source\repos\Projeto\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.0\CursoOnline.Dominio.pdb
